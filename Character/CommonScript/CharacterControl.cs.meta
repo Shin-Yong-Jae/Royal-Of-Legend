@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 0acbbcc1befc24bae8340fe1bf6bf0a5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - NickNameText: {instanceID: 0}
+  - playerUI: {instanceID: 0}
+  - AggroTarget: {instanceID: 0}
+  - m_Anim: {instanceID: 0}
+  - m_nvAgent: {instanceID: 0}
+  - m_weaponTr: {instanceID: 0}
+  - playerTr: {instanceID: 0}
+  - status: {instanceID: 0}
+  - lastClickedEnemyObject: {instanceID: 0}
+  - PV: {instanceID: 0}
+  - DefaultCursor: {fileID: 2800000, guid: 3a52c8676fbeeb84b9735b6dd162a8e1, type: 3}
+  - EnemyAttackCursor: {fileID: 2800000, guid: 753bc0211f921ac408d2ba928147e9bb, type: 3}
+  - BasicAkeyCursor: {fileID: 2800000, guid: 9be0b0b68d468c04ba6b460bfa1f3a35, type: 3}
+  - EnemyAkeyCursor: {fileID: 2800000, guid: 1249e0e9a23d5cd4e8b9b1f3d180b2c0, type: 3}
+  - OnlyEnemyChampionCursor: {fileID: 2800000, guid: c33ee1691027d684ca37c4833743e830,
+      type: 3}
+  - AttackRangeObject: {instanceID: 0}
+  - HpBar: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
